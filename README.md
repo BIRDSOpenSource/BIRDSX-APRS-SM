@@ -96,7 +96,6 @@ BIRDS-X project is a 2U CubeSat dedicated to amateur radio communication.
 ├──── APRS_SM_LinkBudget_v2.xlsx
 ├── APRS_GST_Intro_v2.pdf
 ├── documents explanation.docx
-├── LICENSE
 └── README.md
 
 ```
