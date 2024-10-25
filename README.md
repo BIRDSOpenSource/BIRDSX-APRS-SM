@@ -52,12 +52,48 @@ BIRDS-X project is a 2U CubeSat dedicated to amateur radio communication.
 ├────── automatic_Direwolf_run.py
 ├────── output_format_overwrite_APRS8.py
 ├──── Arduino codes
+├────── test-wind-direction
+├──────── WeatherStationLib.cpp
+├──────── WeatherStationLib.h
+├──────── test_winddirection.ino
+├────── test_ALL_8.ino
+├────── test_gassensor_initial.ino
+├────── test_gassensor_readGas2.ino
+├────── test_thermal.ino
+├────── test_windspeed.ino
 ├── APRS-Protocol
+├──── APRS-by-bob-feb2015.ppt
+├──── APRS101.PDF
+├──── APRS_rough.docx
+├──── CO HamCon 2009 Presentation Protocols.pdf
 ├── APRS-Sensor-data
+├──── aprs_output_extracted.txt
+├──── input_data.dat
+├──── output_data.dat
+├──── output_data_APRS.dat
+├──── output_data_APRS2.dat
+├──── output_data_timestamp.dat
+├──── session_count.txt
+├──── timestamp_extracted.txt
 ├── Data-Budget-analysis
+├──── Simulation-STK
+├────── AER_J4_400km_51.6deg.txt
+├────── Access_J4_400km_51.6deg.txt
+├──── Data Budget Calculation_v0.xlsx
 ├── Datasheet
+├──── (Eggbeater) EB144RK2MMAN04-W.pdf
+├──── DS-15901-Weather_Meter.pdf
+├──── Gas Sensor_DFRobot.pdf
+├──── Gas Sensor_DFRobot_board.pdf
+├──── MLX90614-Datasheet-Melexis.pdf
 ├── Diagram
+├──── APRS SM Block Diagram.drawio
+├──── APRS SM Block Diagram_CDR.drawio
+├──── APRS SM Block Diagram_digirig.drawio
+├──── Sensors_Arduino connection diagram.pptx
 ├── Link-Budget
+├──── APRS_SM_LinkBudget_v1.xlsx
+├──── APRS_SM_LinkBudget_v2.xlsx
 ├── APRS_GST_Intro_v2.pdf
 ├── documents explanation.docx
 ├── LICENSE
