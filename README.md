@@ -40,8 +40,26 @@ BIRDS-X project is a 2U CubeSat dedicated to amateur radio communication.
 ```bash
 
 ├── .gitattributes
-├── BIRDS_Solar-panel-attachment-procedure_v2.2.pdf
-├── Manual (SML-2K1MV1) (1).pdf
+├── APRS-GST-codes
+├──── APRS-Python-codes
+├────── autorelay-codes
+├────── BIRDSX_APRS_GST_v0.py
+├────── ORBTEST_autoDirewolf_autorelay_merged_v1.py
+├────── ORBTEST_autoDirewolf_autorelay_merged_v2.py
+├────── ORBTEST_autoDirewolf_merged_v5.py
+├────── OrbitCalc_AutoTX.py
+├────── Sensor_Data_APRS.py
+├────── automatic_Direwolf_run.py
+├────── output_format_overwrite_APRS8.py
+├──── Arduino codes
+├── APRS-Protocol
+├── APRS-Sensor-data
+├── Data-Budget-analysis
+├── Datasheet
+├── Diagram
+├── Link-Budget
+├── APRS_GST_Intro_v2.pdf
+├── documents explanation.docx
 ├── LICENSE
 └── README.md
 
