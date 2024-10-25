@@ -9,8 +9,8 @@
   <img width="125" alt="birds x" src="https://github.com/user-attachments/assets/8aa7c5b7-313c-48e7-952b-81ce0ce1a703">
 </div>
 
-# BIRDSX-Solar_Panel
- Documentation for the Solar Panel files of the BIRDSX Satellite.
+# BIRDSX-APRS_SM
+ Documentation for the APRS Student Mission files of the BIRDSX Satellite.
 
 
 ## About the BIRDSX Program:
